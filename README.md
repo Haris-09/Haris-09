@@ -1,4 +1,4 @@
- <h1 align="center"> 👋 </h1>
+ <h1 align="center">Hi, I am Muhammad Haris 👋 </h1>
 
 <p align="center"> (Open for Hiring)</p>
 
