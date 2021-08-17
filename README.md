@@ -3,7 +3,7 @@
 <p align="center"> (Open for Hiring)</p>
 
 <p align="center">
-  <samp>Currently a Student of Master's in Mechatronics Engineering at National University of Scineces and Technology (NUST), Islamabad, Pakistan. I did my Bachelor's in Electircal Engineering. Also have 2.5 years of experience as an IT Support Engineer
+  <samp>Currently a student of Master's in Mechatronics Engineering at National University of Sciences and Technology (NUST), Islamabad, Pakistan. I did my Bachelor's in Electrical Engineering. Also have 2.5 years of experience as an IT Support Engineer
   </samp>
   <br> <br>
 </p>
@@ -12,7 +12,7 @@
 
 <h2 align="center"> 🔭 Skills</h2>
 <p align="center">
-  C, C++, Python, Machine learning, Deep learning, Internet of Things, Computer Vision, OpenVINO, Tensorflow, Pytorch, Keras
+  C, C++, Python, Machine learning, Deep learning, Internet of Things, Computer Vision, OpenVINO, Tensorflow, Pytorch, Keras, Microsoft Azure
 </p>
 
 <h2  align="center">📫 Reach me on</h2>
