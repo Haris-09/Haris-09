@@ -3,7 +3,7 @@
 <p align="center"> (Open for Hiring)</p>
 
 <p align="center">
-  <samp>Currently a student of Master's in Mechatronics Engineering at National University of Sciences and Technology (NUST), Islamabad, Pakistan. I did my Bachelor's in Electrical Engineering. Also have 2.5 years of experience as an IT Support Engineer
+  <samp>I have a Master's in Mechatronics Engineering at National University of Sciences and Technology (NUST), Islamabad, Pakistan. I did my Bachelor's in Electrical Engineering. Also have 2.5 years of experience as an IT Support Engineer, around 3 years of experience as a technician at a government organizaion, also worked as a Personalized Internet Assesor as a freelancer with TelusInternational AI.
   </samp>
   <br> <br>
 </p>
